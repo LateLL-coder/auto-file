@@ -1,1 +1,1 @@
-# auto-file
+##The link contains three folders. The first is "Pre-Transcription," which contains two pre-transcription Guzheng audio files (namely "Three Melodies of Plum Blossom" and "Two Tigers"). The second folder is "Post-Transcription," which contains two post-transcription Guzheng audio files (namely "Three Melodies of Plum Blossom" and "Two Tigers"). The third folder is "Method Comparison," which contains two Guzheng audio files generated using Method 1 and Method 2, respectively.
